@@ -334,9 +334,8 @@ nav{
     overflow: hidden;
     color: #fff;
     background-color: #fbfbfb;
-    border-radius: 8px;
     cursor: pointer;
-    background: linear-gradient(to right, #ff9900, #ffd900);
+    background: linear-gradient(90deg,#6541A5,#B48AFF);
     transition: cubic-bezier(0.19, 1, 0.22, 1) .3s;
 }
 
@@ -595,7 +594,6 @@ nav{
     width: 96%;
     margin: 6px auto;
     border: 2px solid #fbfbfb;
-    border-radius: 8px;
     overflow: hidden;
     transition: cubic-bezier(0.19, 1, 0.22, 1) .3s;
 }
