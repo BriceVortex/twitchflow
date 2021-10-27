@@ -79,6 +79,11 @@ nav{
     margin: 3rem 0;
     padding: 0;
     background-color: #6541A5;
+    list-style: none;
+}
+
+.navItems ul li{
+    list-style: none;
 }
 
 .navItems ul a{
@@ -131,6 +136,9 @@ nav{
     border: 2px solid #7145b3;
     border-radius: 30px;
     background-color: #7145b3;
+    list-style: none;
+    appearance: none;
+    outline: none;   
     color: #AB91D2;
     padding: .75rem 3rem;
     margin: 0 1.2rem;
